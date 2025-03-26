@@ -1,6 +1,7 @@
 body {
     font-family: 'Arial', sans-serif;
-    background-color: #f8f9fa;
+     background-image: url(pic);
+     
     margin: 0;
     padding: 0;
     display: flex;
@@ -11,7 +12,7 @@ body {
 
 .checkout-container {
     display: flex;
-    background-color: white;
+    background-color: light rgb(186, 181, 181);
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
     overflow: hidden;
@@ -21,7 +22,7 @@ body {
 }
 
 .form-section, .summary-section {
-    padding: 30px;
+    padding: 50px;
     box-sizing: border-box;
 }
 
