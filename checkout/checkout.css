@@ -1,7 +1,6 @@
 body {
     font-family: 'Arial', sans-serif;
-     background-image: url(pic);
-     
+    background-color: #f8f9fa;
     margin: 0;
     padding: 0;
     display: flex;
@@ -12,7 +11,7 @@ body {
 
 .checkout-container {
     display: flex;
-    background-color: light rgb(186, 181, 181);
+    background-color: white;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
     overflow: hidden;
